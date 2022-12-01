@@ -9,5 +9,6 @@ public class House {
         this.address = address;
         this.numberOfFloors = numberOfFloors;
         System.out.println("A new house has been created!");
+        System.out.println("address: " + address + " - " + "Floors number: " + numberOfFloors);
     }
 }

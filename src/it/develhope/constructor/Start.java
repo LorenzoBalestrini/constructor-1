@@ -7,6 +7,7 @@ public class Start {
         House house2;
 
         house1 = new House("Via abcd", 3);
+        System.out.println("-------------------------------");
         house2 = new House("Via efgh", 2);
 
     }
